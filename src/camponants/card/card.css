@@ -1,0 +1,28 @@
+.card-img{
+ height: 15rem;
+ }
+ .card-btn{
+       background-color: #ff5c39;
+       color: white;
+       border: 1px solid #ff5c39 ;
+       width: 45px;
+       height: 45px;
+       border-radius: 5px;
+ }
+ .card-btn:hover{
+       background-color: transparent;
+       border: 1px solid #ff5c39 ;
+       color: #ff5c39;
+ }
+ .cart-tag
+ {
+      background-color: #ff5c39;
+       right: -1.5rem;
+       color: white;
+ }
+ .cart-textfixer
+ {
+       overflow: hidden;
+       text-overflow: ellipsis;
+       white-space: nowrap;
+ }

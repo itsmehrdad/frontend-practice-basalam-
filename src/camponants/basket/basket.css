@@ -1,0 +1,22 @@
+.basket-container{
+      min-height: 100vh;
+}
+.basket-itemlist{
+ 
+      min-height: 75vh;
+}
+
+
+.btn-basket{
+      background-color: #ff5c39;
+      color: white;
+      border: 1px solid #ff5c39 ;
+      width: 45px;
+      height: 45px;
+      border-radius: 5px;
+}
+.btn-basket:hover{
+      background-color: transparent;
+      border: 1px solid #ff5c39 ;
+      color: #ff5c39;
+}
